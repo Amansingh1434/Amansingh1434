@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Currently sharpening my skills in MERN Stack & learning DSA<br>💼 Built Forever, a sleek and responsive e-commerce platform<br>💬 Ask me about React, Node.js, MongoDB, TailwindCSS, Express.js<br>📫 Reach me at: amansingh5001t@gmail.com<br>🌐 New Portfolio (coming soon...)<br>
+🌱 Currently sharpening my skills in MERN Stack & learning DSA<br>💼 Built Forever, a sleek and responsive e-commerce platform<br>💬 Ask me about React, Node.js, MongoDB, TailwindCSS, Express.js<br>📫 Reach me at: amansingh5001t@gmail.com<br>
 
 
 ## 🌐 Socials:
